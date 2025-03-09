@@ -15,7 +15,7 @@ i mostly animate🙂
   <ul align="left" style="list-style: black">
     <summary>
 
-<h1>Hi, I am Arnav Saini👋</h1>
+<h1>👋Hi, I am Arnav Saini</h1>
 
 <p align="left">
 <h2 align="left"><b>🫥 About me:</b></h2>
