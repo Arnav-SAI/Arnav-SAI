@@ -30,7 +30,7 @@ i mostly animate🙂
  
  🔭 I’m currently working on **[Next-Bench](https://github.com/sonamii/next-bench)**
  
- 🌱 I’m currently learning **more about animation**
+ 🌱 I’m currently learning **more**
  
 ⚡ Fun fact **"a one-man R&D department"**
 
