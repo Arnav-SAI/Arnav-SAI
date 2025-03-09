@@ -15,12 +15,7 @@ i mostly animate🙂
   <ul align="left" style="list-style: black">
     <summary>
 
-## Hi, I am Arnav Saini👋
-
-  
-
-
-
+<h1>Hi, I am Arnav Saini👋</h1>
 
 <p align="left">
 <h2 align="left"><b>🫥 About me:</b></h2>
@@ -44,7 +39,7 @@ i mostly animate🙂
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://arnavsaini.vercel.app" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
 
