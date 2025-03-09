@@ -32,7 +32,7 @@ i mostly animate🙂
  
  🌱 I’m currently learning **more about animation**
  
-⚡ Fun fact ** a one-man R&D department**
+⚡ Fun fact **a one-man R&D department**
 
  </div>
  
