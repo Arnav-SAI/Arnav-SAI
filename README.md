@@ -45,7 +45,7 @@ i mostly animate🙂
 
  <hr/>
  
-<h2 align="center">⚒️ Skills-Tools </h2>
+<h2 align="center">⚒️Skills-Tools </h2>
 <br/>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,git,blender" />
