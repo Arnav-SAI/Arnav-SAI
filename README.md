@@ -25,7 +25,7 @@ i mostly animate🙂
  
  🔭 I’m currently working on **[Next-Bench](https://github.com/sonamii/next-bench)**
  
- 🌱 I’m currently learning **more**
+ 🌱 I’m currently "learning **more**"
  
 ⚡ Fun fact **"one-man R&D department"**
 
