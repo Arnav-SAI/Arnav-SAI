@@ -50,7 +50,7 @@ i mostly animate🙂
 <div align="left">
     <img src="https://custom-tech-icons.vercel.app/api/icons?i=react,html,css,vscode,github,figma,git,blender,supabase,java" />
     <img src="https://custom-tech-icons.vercel.app/api/icons?i=python,javascript,firebase,c,cpp,java,robloxstudio,discord,bsd,twitter" /><br>
- 
+ <img src="https://custom-tech-icons.pages.dev/api/icons?i=python,javascript,firebase,c,cpp&theme=light&perline=5" /><br>
 </div>
 </div>
 
