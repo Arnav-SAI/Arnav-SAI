@@ -48,12 +48,8 @@ i mostly animate🙂
 <h2 align="center">⚒️Skills-Tools</h2>
 <br/>
 <div align="left">
-    <img src="https://custom-tech-icons.vercel.app/api/icons?i=react,html,css,vscode,github,figma,git,blender,supabase,java" />
-    <img src="https://custom-tech-icons.vercel.app/api/icons?i=python,javascript,firebase,c,cpp,java,robloxstudio,discord,bsd,twitter" /><br>
- <div align="center">
-  <img src="https://custom-tech-icons.pages.dev/api/icons?i=python,javascript,firebase,c,cpp&theme=light&perline=5" alt="Skills" />
-</div>
-
+    <img src="https://skill-icons.dev/icons?i=react,html,css,vscode,github,figma,git,blender,supabase,java" />
+    <img src="https://skill-icons.dev/icons?i=python,javascript,firebase,c,cpp,java,robloxstudio,discord,bsd,twitter" /><br>
     
 </div>
 </div>
