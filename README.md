@@ -50,17 +50,7 @@ i mostly animate🙂
 <div align="left">
     <img src="https://custom-tech-icons.vercel.app/api/icons?i=react,html,css,vscode,github,figma,git,blender,supabase,java" />
     <img src="https://custom-tech-icons.vercel.app/api/icons?i=python,javascript,firebase,c,cpp,java,robloxstudio,discord,bsd,twitter" /><br>
-  <div>
-    <img src="https://custom-tech-icons.vercel.app/icons/Python-Light.svg" />
-    <img src="https://custom-tech-icons.vercel.app/icons/JavaScript.svg" />
-    <img src="https://custom-tech-icons.vercel.app/icons/Firebase-Light.svg" />
-    <img src="https://custom-tech-icons.vercel.app/icons/C.svg" />
-    <img src="https://custom-tech-icons.vercel.app/icons/CPP.svg" />
-    <img src="https://custom-tech-icons.vercel.app/icons/Java-Light.svg" />
-    <img src="https://custom-tech-icons.vercel.app/icons/RobloxStudio.svg" />
-    <img src="https://custom-tech-icons.vercel.app/icons/Discord.svg" />
-    <img src="https://custom-tech-icons.vercel.app/icons/BSD-Light.svg" />
-    <img src="https://custom-tech-icons.vercel.app/icons/Twitter.svg" />
+ 
 </div>
 </div>
 
