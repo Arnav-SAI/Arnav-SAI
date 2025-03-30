@@ -50,7 +50,7 @@ i mostly animate🙂
 <div align="left">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma" /> <br>
     <img src="https://skillicons.dev/icons?i=tailwind,git,blender,supabase,java,vercel" /> <br>
-    <img src="https://skillicons.dev/icons?i=python,javascript,firebase,c,cpp,firebase"/> <br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,firebase,c,cpp,firebase"/> 
     <img src="https://skillicons.dev/icons?i=java,robloxstudio,discord,bsd,twitter,replit" /> <br>
 </div>
 </div>
