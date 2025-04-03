@@ -4,7 +4,7 @@
 </h1>
 
 ```markdown
-i mostly animate🙂
+i can animate🙂
 ```
 
 <p align="left"> 
@@ -53,6 +53,7 @@ i mostly animate🙂
     <img src="https://skillicons.dev/icons?i=python,javascript,firebase,c,cpp,firebase"/> 
     <img src="https://skillicons.dev/icons?i=java,robloxstudio,discord,bsd,twitter,replit" /> <br>
 </div>
+
 </div>
 
 <br/>
