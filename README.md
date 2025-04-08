@@ -4,7 +4,7 @@
 </h1>
 
 ```markdown
-i can animate🙂
+i animate🙂
 ```
 
 <p align="left"> 
