@@ -1,50 +1,56 @@
-
 <h1 align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBxenl1a2oyaW82cmdhM2w5azB3ZWJjd2RnNDMwa2poczF1bDBhaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oxHQr6r2x0GqGnois/giphy.gif" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBxenl1a2oyaW82cmdhM2w5azB3ZWJjd2RnNDMwa2poczF1bDBhaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oxHQr6r2x0GqGnois/giphy.gif" width="400"/>
 </h1>
 
-```markdown
-i animate🙂
-```
+<h1 align="center">Hey, I’m Arnav Saini 👋</h1>
 
-<p align="left"> 
- <img src="https://komarev.com/ghpvc/?username=Arnav-SAI&style=for-the-badge&color=blue" width="180px" height="29.4px"></p>
+<p align="center">
+  I build, break, and rethink things.<br/>
+  Design-first. Research-heavy. Slightly obsessive.
+</p>
 
-<br>
-<div id="toc">
-  <ul align="left" style="list-style: black">
-    <summary>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arnav-SAI&style=for-the-badge&color=blue"/>
+</p>
 
-<h1>👋Hi, I am Arnav Saini</h1>
+---
+
+## 🫥 About me
+
+- 🔭 Currently building **[Next Bench](https://github.com/sonamii/next-bench)**  
+- 🧠 Strong at design, systems thinking, and product logic  
+- 🛠️ I prototype fast and learn by doing  
+- ⚡ Fun fact: basically a **one-man R&D department**
+
+---
+
+## 🧩 What I like working on
+
+- Product & startup ideas  
+- AI experiments and automation  
+- UI/UX systems that actually make sense  
+- Tools that save time or remove friction  
+
+If it sounds slightly over-engineered, I’m probably interested.
+
+---
+
+## 📫 Reach me
 
 <p align="left">
-<h2 align="left"><b>🫥 About me:</b></h2>
-<br/>
-
-<div align="left">
- 
- 🔭 I’m currently working on **[Next-Bench](https://github.com/sonamii/next-bench)**
- 
- 
-⚡ Fun fact **"one-man R&D department"**
-
- </div>
- 
-<div align="center"> 
-  <a href="arnavsaini114@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <a href="mailto:arnavsaini114@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
   </a>
   <a href="https://linkedin.com/in/arnavsaini114" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://arnavsaini.netlify.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
   </a>
-</div>
+</p>
 
- <hr/>
- 
+---
 
-</div>
-
-<br/>
+<p align="center">
+  <i>Still figuring things out. Shipping anyway.</i>
+</p>
