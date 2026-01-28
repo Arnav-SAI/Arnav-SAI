@@ -8,21 +8,10 @@ i animate🙂
 ## 🫥 About me
 
 - 🔭 Currently building **[Next Bench](https://github.com/sonamii/next-bench)**  
-- 🧠 Strong at design, systems thinking, and product logic  
-- 🛠️ I prototype fast and learn by doing  
 - ⚡ Fun fact: basically a **one-man R&D department**
 
 ---
-
-## 🧩 What I like working on
-
-- Product & startup ideas  
-- AI experiments and automation  
-- UI/UX systems that actually make sense  
-- Tools that save time or remove friction  
-
-If it sounds slightly over-engineered, I’m probably interested.
-
+ If it sounds slightly over-engineered, I’m probably interested.
 ---
 
 ## 📫 Reach me
