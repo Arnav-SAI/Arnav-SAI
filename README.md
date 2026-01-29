@@ -2,14 +2,9 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBxenl1a2oyaW82cmdhM2w5azB3ZWJjd2RnNDMwa2poczF1bDBhaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oxHQr6r2x0GqGnois/giphy.gif" width="400"/>
 </h1>
 
-<h1 align="center">Hey, I’m Arnav Saini 👋</h1>
+<h1 align="left">Hey, I’m Arnav Saini 👋</h1>
 
-<p align="center">
-  I build, break, and rethink things.<br/>
-  Design-first. Research-heavy. Slightly obsessive.
-</p>
-
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Arnav-SAI&style=for-the-badge&color=blue"/>
 </p>
 
