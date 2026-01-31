@@ -7,7 +7,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Arnav-SAI&style=for-the-badge&color=blue"/>
 </p>
-
 ---
 
 ## 🫥 About me
