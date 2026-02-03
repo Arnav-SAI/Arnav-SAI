@@ -15,7 +15,7 @@
 - ⚡ Fun fact: basically a **one-man R&D department**
 
 ---
-If it sounds slightly over-engineered, I’m probably interested.
+If it sounds slightly over engineered, I’m probably interested.
 ---
 
 ## 📫 Reach me
@@ -35,5 +35,5 @@ If it sounds slightly over-engineered, I’m probably interested.
 ---
 
 <p align="center">
-  <i>Still figuring things out. Shipping anyway.</i>
+  <i>Still figuring things out!!!!.</i>
 </p>
