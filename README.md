@@ -18,7 +18,7 @@
 If it sounds slightly over engineered, I’m probably interested.
 ---
 
-## 📫 Reach me
+## 📫 Reach me 
 
 <p align="left">
   <a href="mailto:arnavsaini114@gmail.com">
@@ -35,5 +35,5 @@ If it sounds slightly over engineered, I’m probably interested.
 ---
 
 <p align="center">
-  <i>Still figuring things out!!!!.</i>
+  <i>Still figuring things out!!!.</i>
 </p>
