@@ -12,7 +12,7 @@
 ## 🫥 About me;
 
 - 🔭 Currently building **[Next Bench](https://github.com/sonamii/next-bench)**  
-- ⚡ Fun fact: basically a **one-man R&D department**
+- ⚡ Fun fact: basically a **one man R&D department**
 
 ---
 If it sounds slightly over engineered, I’m probably interested.
