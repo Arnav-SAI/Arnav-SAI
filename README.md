@@ -35,5 +35,5 @@ If it sounds slightly over engineered, I’m probably interested.
 ---
 
 <p align="center">
-  <i>Still figuring things out!!!.</i>
+  <i>Still figuring things out!!.</i>
 </p>
