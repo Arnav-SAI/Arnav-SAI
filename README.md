@@ -27,7 +27,7 @@ If it sounds slightly over engineered, I’m probably interested.
   <a href="https://linkedin.com/in/arnavsaini114" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://arnavsaini.netlify.app/" target="_blank">
+  <a href="https://arnavsaini.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
   </a>
 </p>
