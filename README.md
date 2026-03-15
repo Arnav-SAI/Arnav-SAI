@@ -9,7 +9,7 @@
 </p>
 
 
-## 🫥 About me
+## 🫥 About-me
 
 - 🔭 Currently building **[Next Bench](https://github.com/sonamii/next-bench)**  
 - ⚡ Fun fact: basically a **one man R&D department**
